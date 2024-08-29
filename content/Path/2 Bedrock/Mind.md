@@ -1,8 +1,8 @@
 The salients of Mind are [[Struggle]], [[Discipline]], and [[Nuture]].
 
-- Struggle — Despite negative connotations, accepting and using struggle as a positive force.  In life, pain is inevitable while suffering is optional.  Understanding the difference unlocks agency.
-- Discipline — The force in life that pushes you towards something that is good for you but you don't like
-- Nuture — The force in life that pushes you towards something that is good for you and you like
+- [[Struggle]] — Despite negative connotations, accepting and using struggle as a positive force.  In life, pain is inevitable while suffering is optional.  Understanding the difference unlocks agency.
+- [[Discipline]] — The force in life that pushes you towards something that is good for you but you don't like
+- [[Nuture]] — The force in life that pushes you towards something that is good for you and you like
 
   
 The point of Mind is to know which direction is up.  What are the baseline forces that pull you up no matter how much you wobble between chaos and order?
