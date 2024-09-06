@@ -1,5 +1,6 @@
 
 Table of Contents
+<ul>
 	[[The Dawn]] and [[Orientation Framework]]
 	[[Bedrock]]
 		[[Mind]]
@@ -25,3 +26,4 @@ Table of Contents
 	[[Coda and Caliphon]]
 		[[Death]]
 		[[New Eyes]]
+	</ul>
