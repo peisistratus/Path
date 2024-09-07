@@ -4,8 +4,8 @@ I am going to tell you a story.  A story about a path and a way to walk.  Some w
 
 **Table of Contents**
 <ul> 
-	<li><a href="./Path/1-Dawn/The-Dawn">The Dawn</a></li><p> and </p> <a href="./Path/1-Dawn/Orientation-Framework">Orientation Framework</a>
-	 <li><a href="./Path/2-Bedrock/Bedrock">Bedrock</a></li> <p> - A framework for understanding the self and areas of cultivation to provide a personal foundation with which to self-correct, combat self-deception, and start to negotiate things at the edge of your comprehension</p>
+	`<li><a href="./Path/1-Dawn/The-Dawn">The Dawn</a></li><span> and </span><a href="./Path/1-Dawn/Orientation-Framework">Orientation Framework</a>`
+	 <li><a href="./Path/2-Bedrock/Bedrock">Act I: Bedrock</a></li> <span> - A framework for understanding the self and areas of cultivation to provide a personal foundation with which to self-correct, combat self-deception, and start to negotiate things at the edge of your comprehension</span>
 		 <ul>
 			 <li><a href="./Path/2-Bedrock/Mind">Mind</a></li>
 			 <li><a href="./Path/2-Bedrock/Body">Body</a></li>
@@ -13,7 +13,7 @@ I am going to tell you a story.  A story about a path and a way to walk.  Some w
 		 </ul>
 </ul>
 <ul> 
-	 <li><a href="./Path/3-Callings/Callings">Callings</a></li> <p> - Taking the self you've built and stepping into the structures of the world around you. Immersing yourself in things larger than you, and beginning to participate.  Seeing the connections between people, ideas, to properly appropriate and metabolize experience, and beginning to form, shape, interact. How and why to progress, how you socialize, and how to rise to give life to meeting spaces.</p>
+	 <li><a href="./Path/3-Callings/Callings">Act II: Callings</a></li> <span> - Taking the self you've built and stepping into the structures of the world around you. Immersing yourself in things larger than you, and beginning to participate.  Seeing the connections between people, ideas, to properly appropriate and metabolize experience, and beginning to form, shape, interact. How and why to progress, how you socialize, and how to rise to give life to meeting spaces.</span>
 		 <ul>
 		 <li><a href="./Path/3-Callings/Purpose">Purpose</a></li>  
 		 <li><a href="./Path/3-Callings/Balance">Balance</a></li> 
@@ -23,7 +23,7 @@ I am going to tell you a story.  A story about a path and a way to walk.  Some w
 		 </ul>
 </ul>
 <ul>
-	 <li><a href="./Path/4-Enchantments/Enchantments">Enchantments</a></li> <p> - We have tasted the world by stepping into it, now we are stepping back to consider the frameworks</p>
+	 <li><a href="./Path/4-Enchantments/Enchantments">Act III: Enchantments</a></li> <span> - We have tasted the world by stepping into it, now we are stepping back to consider the frameworks</span>
 		 <ul>
 			 <li><a href="./Path/4-Enchantments/World-Building">World Building</a></li> 
 			 <li><a href="./Path/4-Enchantments/Fighting-the-War-on-Ignorance">Fighting the War on Ignorance</a></li>
@@ -34,7 +34,7 @@ I am going to tell you a story.  A story about a path and a way to walk.  Some w
 		 </ul>
 </ul>
 <ul>
-	 <li><a href="./Path/5-Legacies/Legacies">Legacies</a></li> <p> - The deep and mysterious games which play out under normal society.  The games to play to keep playing the game.  Mutual transformation, the in-the-moment awareness of multiple on multiple levels</p>
+	 <li><a href="./Path/5-Legacies/Legacies">Act IV: Legacies</a></li> <span> - The deep and mysterious games which play out under normal society.  The games to play to keep playing the game.  Mutual transformation, the in-the-moment awareness of multiple on multiple levels</span>
 		 <ul>
 			 <li><a href="./Path/5-Legacies/The-Infinite-Set">The Infinite Set</a></li> 
 			 <li><a href="./Path/5-Legacies/Kayfabe">Kayfabe</a></li> 
@@ -44,7 +44,7 @@ I am going to tell you a story.  A story about a path and a way to walk.  Some w
 		</ul>
 </ul>
 <ul>
-	 <li><a href="./Path/6-Coda/Coda-and-Caliphon">Coda and Caliphon</a></li> 
+	 <li><a href="./Path/6-Coda/Coda-and-Caliphon">Act V: Coda and Caliphon</a></li> 
 		 <ul>
 			 <li><a href="./Path/6-Coda/Death">Death</a></li> 
 			 <li><a href="./Path/6-Coda/New-Eyes">New Eyes</a></li> 
