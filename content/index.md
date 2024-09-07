@@ -4,7 +4,7 @@ I am going to tell you a story.  A story about a path and a way to walk.  Some w
 
 **Table of Contents**
 <ul> 
-	`<li><a href="./Path/1-Dawn/The-Dawn">The Dawn</a></li><span> and </span><a href="./Path/1-Dawn/Orientation-Framework">Orientation Framework</a>`
+	`<li><a href="./Path/1-Dawn/The-Dawn">The Dawn</a></li><p style="display:inline;"> and </p><a href="./Path/1-Dawn/Orientation-Framework">Orientation Framework</a>`
 	 <li><a href="./Path/2-Bedrock/Bedrock">Act I: Bedrock</a></li> <span> - A framework for understanding the self and areas of cultivation to provide a personal foundation with which to self-correct, combat self-deception, and start to negotiate things at the edge of your comprehension</span>
 		 <ul>
 			 <li><a href="./Path/2-Bedrock/Mind">Mind</a></li>
