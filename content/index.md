@@ -1,15 +1,14 @@
 
-
 I am going to tell you a story.  A story about a path and a way to walk.  Some will read the story and barrel down the path at full speed.  Others might add the path to their map or adopt a few steps in their walk.  Others still will turn right around and head the other direction.
 
 **Table of Contents**
 <ul> 
-	`<li><a href="./Path/1-Dawn/The-Dawn">The Dawn</a></li><p style="display:inline;"> and </p><a href="./Path/1-Dawn/Orientation-Framework">Orientation Framework</a>`
+	<li><a href="./Path/1-Dawn/The-Dawn">The Dawn</a></li><p style="display:inline;"> and </p><a href="./Path/1-Dawn/Orientation-Framework">Orientation Framework</a>
 	 <li><a href="./Path/2-Bedrock/Bedrock">Act I: Bedrock</a></li> <span> - A framework for understanding the self and areas of cultivation to provide a personal foundation with which to self-correct, combat self-deception, and start to negotiate things at the edge of your comprehension</span>
 		 <ul>
-			 <li><a href="./Path/2-Bedrock/Mind">Mind</a></li>
-			 <li><a href="./Path/2-Bedrock/Body">Body</a></li>
-			 <li><a href="./Path/2-Bedrock/Spirit">Spirit</a></li>
+			 <li><a href="./Path/2-Bedrock/Mind">Mind</a></li> <span> - I argue that accepting and embracing <a href="./Path/2-Bedrock/Struggle">Struggle</a> is necessary for the advancing in life, and that the twin ramps of <a href="./Path/2-Bedrock/Discipline">Discipline</a></li> and <a href="./Path/2-Bedrock/Nurture">Nurture</a> are your keys to navigating upward.</li></span>
+			 <li><a href="./Path/2-Bedrock/Body">Body</a></li>  <span> - Exercise, Nutrition, and Sleep</span>
+			 <li><a href="./Path/2-Bedrock/Spirit">Spirit</a></li>  <span> - A framework for understanding the self and areas of cultivation to provide a personal foundation with which to self-correct, combat self-deception, and start to negotiate things at the edge of your comprehension</span>
 		 </ul>
 </ul>
 <ul> 
