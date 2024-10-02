@@ -4,7 +4,7 @@ I am going to tell you a story.  A story about a path and a way to walk.  Some w
 **Table of Contents**
 <ul> 
 	<li><a href="./Path/1-Dawn/The-Dawn">The Dawn</a></li><p style="display:inline;"> and </p><a href="./Path/1-Dawn/Orientation-Framework">Orientation Framework</a>
-	 <li><a href="./Path/2-Bedrock/Bedrock">Act I: Bedrock</a></li> <span> - A framework for understanding the self and areas of cultivation to provide a personal foundation with which to self-correct, combat self-deception, and start to negotiate things at the edge of your comprehension</span>
+	 <li><a href="./Path/2-Bedrock/Bedrock">Act I: Bedrock</a></li> <span> - A framework for understanding the self, a basis of stability, soil for cultivation, and the seeds of wisdom and strength</span>
 		 <ul>
 			 <li><a href="./Path/2-Bedrock/Mind">Mind</a></li> <span> - I argue that accepting and embracing <a href="./Path/2-Bedrock/Struggle">Struggle</a> is necessary for the advancing in life, and that the twin ramps of <a href="./Path/2-Bedrock/Discipline">Discipline</a></li> and <a href="./Path/2-Bedrock/Nurture">Nurture</a> are your keys to navigating upward.</li></span>
 			 <li><a href="./Path/2-Bedrock/Body">Body</a></li>  <span> - Exercise, Nutrition, and Sleep</span>
@@ -12,7 +12,7 @@ I am going to tell you a story.  A story about a path and a way to walk.  Some w
 		 </ul>
 </ul>
 <ul> 
-	 <li><a href="./Path/3-Callings/Callings">Act II: Callings</a></li> <span> - Taking the self you've built and stepping into the structures of the world around you. Immersing yourself in things larger than you, and beginning to participate.  Seeing the connections between people, ideas, to properly appropriate and metabolize experience, and beginning to form, shape, interact. How and why to progress, how you socialize, and how to rise to give life to meeting spaces.</span>
+	 <li><a href="./Path/3-Callings/Callings">Act II: Callings</a></li> <span> - Raise your foundation to meet with things larger than yourself. Seeking a direction forward, cultivating meaningful relationships and collaborations, beginning to shape your path and contributing to the broader community</span>
 		 <ul>
 		 <li><a href="./Path/3-Callings/Purpose">Purpose</a></li>  
 		 <li><a href="./Path/3-Callings/Balance">Balance</a></li> 
