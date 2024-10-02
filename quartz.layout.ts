@@ -1,23 +1,8 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg";
 import * as Component from "./quartz/components";
-import { JSX } from "preact"; // or react, depending on your setup
 
-const CustomHead = (): JSX.Element => {
-  return (
-    <>
-      {Component.Head()}
-      <script
-        defer
-        src="https://cloud.umami.is/script.js"
-        data-website-id="531f6609-9767-4690-9352-449099288545"
-      ></script>
-    </>
-  );
-};
-
-// components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: CustomHead(),
+  head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({
@@ -25,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       X: "https://x.com/peisistratus",
     },
   }),
-};
+}
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
