@@ -7,8 +7,8 @@ I am going to tell you a story.  A story about a path and a way to walk.  Some w
 	 <li><a href="./Path/2-Bedrock/Bedrock">Act I: Bedrock</a></li> <span> - A framework for understanding the self, a basis of stability, soil for cultivation, and the seeds of wisdom and strength</span>
 		 <ul>
 			 <li><a href="./Path/2-Bedrock/Mind">Mind</a></li> <span> - I argue that accepting and embracing <a href="./Path/2-Bedrock/Struggle">Struggle</a> is necessary for the advancing in life, and that the twin ramps of <a href="./Path/2-Bedrock/Discipline">Discipline</a></li> and <a href="./Path/2-Bedrock/Nurture">Nurture</a> are your keys to navigating upward.</li></span>
-			 <li><a href="./Path/2-Bedrock/Body">Body</a></li>  <span> - Exercise, Nutrition, and Sleep</span>
-			 <li><a href="./Path/2-Bedrock/Spirit">Spirit</a></li>  <span> - A framework for understanding the self and areas of cultivation to provide a personal foundation with which to self-correct, combat self-deception, and start to negotiate things at the edge of your comprehension</span>
+			 <li><a href="./Path/2-Bedrock/Body">Body</a></li>  <span> - You, as a physical system. An ideal to work towards, a journey of improvement, and a routine of maintenance through [[Exercise]], [[Nutrition]], and [[Sleep]]</span>
+			 <li><a href="./Path/2-Bedrock/Spirit">Spirit</a></li>  <span> - the pillar that faces outward and begins to contact the world around us. [[Bonds]]for our connections with others, [[Creation]] the act of bringing life to the world, and [[Faith]] for belief beyond what you 'know'</span>
 		 </ul>
 </ul>
 <ul> 
