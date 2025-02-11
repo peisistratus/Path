@@ -2,7 +2,7 @@
 
 Sections
 [[The Infinite Set]]
-[[Kayfabe]]
+[[Mythos]]
 [[Prospecting or Discovery of the Future]]
 [[Good Ancestors]]
 
