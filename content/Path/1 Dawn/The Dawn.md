@@ -1,4 +1,4 @@
-
+![[Pasted image 20250211154416.png]]
 *Building a way to walk, a path to follow, and a vision for the future*
 
 Behold this life, your wild and wonderful eruption of existence rising from the deep loam of time. Your boundless possibility nourished by breath and blood and roots towards the promise of some glimpsed horizon.
@@ -28,8 +28,8 @@ This is an attempt to create a bedrock upon which to build a great nobility of c
 This is an invitation to participate in the eternal dance of creation and destruction. An attempt to further the art of finding truth by orienting towards the highest possible good.  An ideal that in the journey towards we must:
 
 - Emulate the success and joyful moments of those you admire, share your own, and become the example you wish to see in the world
-- Negotiate the needs of individuals, across society, and through time for succeeding generations
 - Participate in the sense-making of society and the unfolding of balance ascending the spiral of progress from our home to our community to our nation to our planet and beyond
+- Negotiate the needs of individuals, across society, and through time for succeeding generations
 
 We are all human.  We breathe, we eat, we sleep, we hope.  We long for good things to happen, for success, for comfort, for satisfaction.  
 
@@ -38,3 +38,5 @@ And we are the ones who breathe fire into the world. At our hearth must be the r
 Our home will fill with a golden age producing the abundance of titans, ground swelling love, and a vibrant society fulfilling grand visions with such finesse and heart that life will be worn gloriously by all.
 
 We can balance the shadows we have carried into a light that will outshine anything we have ever known.
+
+<a href="./Path/2-Bedrock/Bedrock">Begin the Path</a>
