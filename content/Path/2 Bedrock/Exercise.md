@@ -1,14 +1,14 @@
 #quotes _“The workout is merely a trigger that sets the body's growth mechanism into motion.”_          – Mike Mentzer” 
 
-If you’re looking to sustain or improve health, exercise will be the main prescription for entire swaths of conditions.  Exercise improves quality of life in nearly every dimension you can think of physical (weight, cardiovascular, muscle, and bone health), mental (lower stress, better sleep, improved cognition), and emotional (boost self-esteem, confidence, regulate anxiety/depression). 
+If you’re looking to sustain or improve health, exercise will be the main prescription for entire swaths of conditions.  Exercise improves quality of life in nearly every dimension you can think of physical (weight, cardiovascular, muscle, and bone health), mental (lower stress, better sleep, improved cognition), and emotional (boosting self-esteem, confidence, regulating anxiety/depression). 
 
 In this arena let’s start with one common viewpoint: 
 
-Exercising sucks, it is a waste of my time and energy, and could literally be the definition of forced torture. It is uncomfortable and I find nothing relaxing about it. I push myself to the point of stress on purpose and am often achy, sore, and getting injured. I mindlessly do pointless movements that make me sweat and smell gross when I could be doing more productive projects. I either have to have to get up early or waste time after work traveling to the gym. It’s stressful being judged at the gym or in unregulated sports with random people better than you. I’ve never seen the point.
+Exercising sucks, it is a waste of my time and energy, and could literally be the definition of forced torture. It is uncomfortable and I find nothing relaxing about it. I push myself to the point of stress on purpose and am often achy, sore, and getting injured. I mindlessly do pointless movements that make me sweat and smell gross when I could be doing more productive projects. I either have to get up early or waste time after work traveling to the gym. It’s stressful being judged at the gym or in unregulated sports with random people better than you. I’ve never seen the point.
 
 I’ll try my best to flip that here: 
 
-Exercising is the genuine liberation of the human body. You push yourself so that you grow stronger and more capable. The movements cultivate discipline through repetition and the investment of time cultivates even more energy. Exercise is endlessly appealing, be it peaceful forest walks, camaraderie team sports, or activities where you only compete against who you were yesterday. I can put my body to use in ways that benefit me, motivate me to eat healthier, and improve the quality of my sleep. I have a simple home gym for days with low motivation and a world of possibility from simple routines, varied activities, and friends who share, support, and inspire. My slow steady accumulation of results has been achieved through modest consistency. Watching my body respond and feeling my mental state improve over the last year has been so satisfying. The couple of hours that I devote to exercise each week has been foundational in improving nearly every aspect of my life.
+Exercising is the genuine liberation of the human body. You push yourself so that you grow stronger and more capable. The movements cultivate discipline through repetition and the investment of time cultivates even more energy. Exercise is endlessly appealing, be it peaceful forest walks, the camaraderie of team sports, or activities where you only compete against who you were yesterday. I can put my body to use in ways that benefit me, motivate me to eat healthier, and improve the quality of my sleep. I have a simple home gym for days with low motivation and a world of possibility from simple routines, varied activities, and friends who share, support, and inspire. My slow steady accumulation of results has been achieved through modest consistency. Watching my body respond and feeling my mental state improve over the last year has been so satisfying. The couple of hours that I devote to exercise each week has been foundational in improving nearly every aspect of my life.
 
 Very few people who strongly hold the first position will be swayed by just reading the second position.  
 
@@ -16,13 +16,13 @@ There is a strong undercurrent of “_just do it and it will become enjoyable_�
 
 There’s also a strong undercurrent “_I would, but…_” or “_I did for awhile, but…_” there are all these reasons preventing it. 
 
-Remember we are building the bedrock on which the rest of your life can stand so you either need a strong Why or carefully work through your natural resistance.  Examine the reasons your mind picks for not taking on this practice
+Remember we are building the bedrock on which the rest of your life can stand so you either need a strong Why or carefully work through your natural resistance.  Examine the reasons your mind picks for not taking on this practice.
 
 What is your Why? 
 
-Or, what are natural resistances?
+Or, what are your natural resistances?
 
-If you’re worried about discomfort and injury there are plenty of options tailored to your current activity and skill level.  If you’re worried about wasting time,  reframe it as a time investment in the long-term benefits (energy, improved mood, better health) small consistent steps can lead to big results.  If you’re worried about the social aspects, start a home gym or find small friendly beginner groups where everyone is learning. If you’re worried about purposeless movements, remember that your body moves in many different ways. A squat isn’t just moving up and down it’s strengthening the entire lower body and core to aid in sitting, standing, or picking things up. If you don’t have enough time… If you don’t know what to do… If the things you’ve tried felt bad… 
+If you’re worried about discomfort and injury there are plenty of options tailored to your current activity and skill level.  If you’re worried about wasting time, imagine in detail the long-term benefits (energy, improved mood, better health) small consistent steps can lead to big results.  If you’re worried about the social aspects, start a home gym or find small friendly beginner groups where everyone is learning. If you’re worried about purposeless movements, remember that your body moves in many different ways. A squat isn’t just moving up and down it’s strengthening the entire lower body and core to aid in sitting, standing, or picking things up. If you don’t have enough time… If you don’t know what to do… If the things you’ve tried felt bad… 
 
 We might have found our Why or we might have examined our resistances.  Now, how do we get there?
 
