@@ -1,9 +1,9 @@
 
-![[Pasted image 20240602130023.png]]
+![[bedrockhead.png]]
 
 **Bedrock**
 
-**OR THE PREPARATION**
+**or The Preparation**
 
 “Step by step walk the thousand-mile road.” #quotes 
 

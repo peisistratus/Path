@@ -17,7 +17,7 @@
 		{"id":"b840abe20370b45f","type":"file","file":"Path/2 Bedrock/Creation.md","x":424,"y":913,"width":181,"height":55},
 		{"id":"31a2206750414f77","type":"file","file":"Path/2 Bedrock/Faith.md","x":753,"y":915,"width":151,"height":50},
 		{"id":"914527fbcf71f5e6","type":"file","file":"Path/3 Callings/Callings.md","x":-75,"y":1160,"width":400,"height":440},
-		{"id":"4cd14bdc05ae6d90","type":"file","file":"Path/3 Callings/Good Communication.md","x":-75,"y":2190,"width":400,"height":50},
+		{"id":"4cd14bdc05ae6d90","type":"file","file":"Path/3 Callings/The Architecture of Connection.md","x":-75,"y":2190,"width":400,"height":50},
 		{"id":"4d1e03f82a1e0198","type":"file","file":"Path/3 Callings/Balance.md","x":477,"y":2140,"width":400,"height":50},
 		{"id":"facabc1547bd9185","type":"file","file":"Path/3 Callings/Decisions and Unintended Consequences.md","x":-75,"y":2280,"width":400,"height":80},
 		{"id":"602cc942ac0b73d9","type":"file","file":"Path/3 Callings/God.md","x":477,"y":1690,"width":400,"height":400},
@@ -32,7 +32,7 @@
 		{"id":"585b73e834bc7b8a","type":"file","file":"Path/4 Enchantments/Aesthetics or Traditions of Excellence.md","x":477,"y":3600,"width":400,"height":80},
 		{"id":"3791c6b67a538eb4","type":"file","file":"Path/4 Enchantments/Negotiating Moloch.md","x":-75,"y":3650,"width":400,"height":50},
 		{"id":"858b114d28e0d6d1","type":"file","file":"Path/5 Legacies/Legacies.md","x":-75,"y":4000,"width":400,"height":400},
-		{"id":"cc39780900aa33a0","type":"file","file":"Path/6 Resonances/Coda and Caliphon.md","x":-75,"y":5760,"width":400,"height":400},
+		{"id":"cc39780900aa33a0","type":"file","file":"Path/6 Resonances/Resonances.md","x":-75,"y":5760,"width":400,"height":400},
 		{"id":"99d6f42655574939","type":"file","file":"Path/5 Legacies/Harmony.md","x":-75,"y":4560,"width":400,"height":400},
 		{"id":"0469b83d4650d9d7","type":"file","file":"Path/5 Legacies/Ascendancy.md","x":477,"y":4480,"width":400,"height":400},
 		{"id":"178ca78872c2e0a5","type":"file","file":"Path/5 Legacies/Resolution.md","x":-640,"y":4480,"width":400,"height":400},
@@ -40,7 +40,7 @@
 		{"id":"085db91666298fc4","type":"file","file":"Path/5 Legacies/Good Ancestors.md","x":477,"y":4905,"width":400,"height":55},
 		{"id":"62b3faf85c6af647","type":"file","file":"Path/5 Legacies/Prospecting or Discovery of the Future.md","x":-640,"y":4930,"width":400,"height":95},
 		{"id":"a302da3123e8504e","type":"file","file":"Path/5 Legacies/Mythos.md","x":-75,"y":5080,"width":400,"height":50},
-		{"id":"e48526575d93a320","type":"file","file":"Path/4 Enchantments/Scarcity and Abundance.md","x":480,"y":3700,"width":400,"height":105},
+		{"id":"e48526575d93a320","type":"file","file":"Path/4 Enchantments/Scarcity & Abundance.md","x":480,"y":3700,"width":400,"height":105},
 		{"id":"e8c7cd28c8b46e24","type":"file","file":"Path/4 Enchantments/Fighting the War on Ignorance.md","x":-74,"y":3725,"width":400,"height":80}
 	],
 	"edges":[

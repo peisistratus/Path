@@ -1,4 +1,6 @@
-![[Pasted image 20250211154416.png]]
+![[dawnhead.png]]
+**The Dawn**
+
 *Building a way to walk, a path to follow, and a vision for the future*
 
 Behold this life, your wild and wonderful eruption of existence rising from the deep loam of time. Your boundless possibility nourished by breath and blood and roots towards the promise of some glimpsed horizon.
