@@ -59,7 +59,7 @@ Now the preparation has begun.
 
 
   
-![[Pasted image 20240602130328.png|200]]
+![[This is You.png|200]]
 
 This is you.  
 
@@ -108,7 +108,7 @@ Imagine you are in a dark cave with your friends and you've been there your whol
 One day, you manage to leave the cave and step outside. You see the real world with bright colors, trees, animals, and the sun. You realize that the shadows in the cave were just a tiny, dull version of the amazing real world outside. 
 
 The cave where you had spent your whole life was like living in a world of make-believe, while outside the cave is the world of true reality. Plato's story is telling us that most people are like those in the cave, only seeing shadows which are their limited, mistaken ideas based on taking their senses as truth instead of the real, true things which are abstract and not necessarily perceivable through the senses.
-  ![[Pasted image 20240628071604.png]]
+  ![[Allegory of the Cave.png]]
 
 While inattention blindness is a literal and physical example of this ‘reality is too rich’ problem, Plato’s allegory of the cave also suggests that our senses give us a distorted understanding of reality. This awareness of ignorance is the first step up and the first step better towards realizing the limits of our attention, how and where reality may be constructed for us, and to question what is missing. 
 

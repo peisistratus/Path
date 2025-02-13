@@ -1,4 +1,4 @@
-![[Pasted image 20240627173530.png]]
+![[callingshead.png]]
 Mastery of the self is not enough. Strength without application withers. The world does not wait for perfection—it demands action. To live fully, one must step beyond the internal and face the forces that shape human existence—social, political, and spiritual.
 
 - **[[Leviathans]]** (_[[Network]], [[State]], [[God]]_) - Represent social, political, and spiritual dimensions that influence our external existence and the realistic constraints of navigating these forces. And their shadows (_Fragmentation, Corruption, Despair_)

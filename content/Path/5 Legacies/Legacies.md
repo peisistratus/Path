@@ -1,4 +1,4 @@
-![[Pasted image 20240627175105.png]]
+![[legacieshead.png]]
 
 Sections
 [[Aetherials]] - (_[[Resolution]], [[Harmony]], [[Ascendancy]]_) - The power to rise—elevating, refining, and transcending the structures already built. And their shadows _([[Fracture]], [[Discord]], [[Hubris]])_
