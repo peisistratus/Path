@@ -1,3 +1,0 @@
-- **Ordos (from "Order" + "Logos")** → _The underlying structure of reality, the patterned logic that emerges from resolution_
-- **Ordos (Numbers, Logic, Form, Pattern)** → _The structured foundation of reality._
-- [[Shadows]] - [[Void]]
