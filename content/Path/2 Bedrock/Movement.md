@@ -1,55 +1,46 @@
 #quotes _“The workout is merely a trigger that sets the body's growth mechanism into motion.”_          – Mike Mentzer” 
 
 Movement is older than language. Our ancestors had no terms for anaerobic, aerobic, or mobility they simply lifted, carried, chased, walked, climbed, and danced. These were not “exercise” they were survival, play, and ritual. The modern world has stripped most of this from our days, yet our bodies still carry the same blueprint. In this chapter, we’ll start where they started: walking, playing, and moving with the ease of a life lived in motion. From there, we’ll build the flexibility and balance to move freely, the strength to carry heavy loads and meet challenges, and, if you wish, the power and precision of advanced training. Whether your aim is to restore lost movement or explore the outer edges of human performance, the path begins with the first step.
-
-### **Part I — Why We Move** _(Foundations)_
+### **Part I — Why We Move** 
 
 **1. Movement as Liberation**
-- Contrasting the “exercise as punishment” mindset with movement as freedom.
-- Movement as a core element of a healthy body — strength, stamina, and fluidity as the keys to independence and vitality.
-
-**2. The Birthright of Motion**
-- How humans evolved to walk, run, carry, climb, and play.
+- Contrasting positive and negative mindsets around the body and exercise
+- Movement as a core element of a healthy body
 - Modern life’s erosion of natural movement patterns.
-- The three capacities that underpin all movement:
-    - **Strength** (Anaerobic) — acting with force.
-    - **Endurance** (Aerobic) — sustaining effort.
-    - **Mobility** — moving without restriction.
 
-**3. The Baseline Every Body Needs**
-- Walking, casual play, and light daily movement as non-negotiable.
-- The “minimum effective dose” for each capacity.
+**2. Assessment
+- Prepare your mind, know your starting point, determine are your goals
+
+### **Part II — The Baseline Every Body Needs** _(Foundations)_
+
+**3. Moving Well Before Moving More**
+	- Posture, breath, and proprioception as the foundation of all training.
+	- Quality over quantity: why good movement patterns prevent injury and extend capability.
+	- Basic Risk Literacy: Pain, progress, and self-checks
+
+**5. Baseline practices by capacity**
+    - Strength (Anaerobic) - acting with force.
+    - Endurance (Aerobic) - sustaining effort.
+    - Mobility - balance and coordination.
+    - Recovery - rhythms.
 ### **Part II — How to Move Well for Life** _(Refinement)_
 
-**4. Moving Well Before Moving More**
-- Posture, breath, and proprioception as the foundation of all training.
-- Quality over quantity — why good movement patterns prevent injury and extend capability.
+**6. Building the Balanced Body**
+- **Strength** (Anaerobic) — bodyweight to loaded.
+- **Endurance** (Aerobic) — continuous effort.
+- **Mobility** — moving without restriction
 
-**5. Building the Balanced Body**
-- Freedom of motion — joint health, dynamic and static stretching.
-- The balanced pattern framework: push, pull, hinge, squat, carry.
-- Integrating mobility into strength and endurance work.
-
-**6. Training for Longevity**
-- Sustainable strength: bodyweight mastery, progressive overload.
-- Sustainable endurance: Zone 2 cardio, recreational sports, active commuting.
-- Recovery and rest as part of the training plan.
+**7. Transition Line and Exit Criteria**
+	If you choose to push further, you’ll trade general effort for specific excellence
 ### **Part III — Mastery of Movement** _(Advanced)_
 
-**7. Strength to Power** _(Anaerobic)_
-- The Big Three Lifts — squat, deadlift, press.
-- High-intensity strength methods (Mike Mentzer, Olympic lifts, kettlebells, plyometrics).
-- Neuromuscular and power training.
+**8. Building the Balanced Body**
+- **Strength** (Anaerobic) — strength to power.
+- **Endurance** (Aerobic) — endurance to speed.
+- **Mobility** — movement to graceful control.
 
-**8. Endurance to Speed** _(Aerobic)_
-- Advanced endurance programming — periodization, sport-specific prep.
-- Sprint and HIIT protocols for maximum capacity.
-- Blending aerobic and anaerobic for performance.
-
-**9. Mobility to Graceful Control** _(Movement Quality)_
-- Advanced mobility systems (animal flow, gymnastics flexibility).
-- Prehab and rehab integration.
-- Movement as art — dance, martial arts, performance.
+**9. The Costs of Mastery**
+	- Time, risk, recovery, seasonal cycles
 
 ---
 **1. Movement as Liberation**
@@ -72,9 +63,7 @@ There’s also a strong undercurrent “_I would, but…_” or “_I did for aw
 
 Remember we are building the bedrock on which the rest of your life can stand so you either need a strong Why or carefully work through your natural resistance.  Examine the reasons your mind picks for not taking on this practice.
 
-What is your Why? 
-
-Or, what are your natural resistances?
+What is your Why? Or, what are your natural resistances?
 
 If you’re worried about discomfort and injury there are plenty of options tailored to your current activity and skill level.  If you’re worried about wasting time, imagine in detail the long-term benefits (energy, improved mood, better health) small consistent steps can lead to big results.  If you’re worried about the social aspects, start a home gym or find small friendly beginner groups where everyone is learning. If you’re worried about purposeless movements, remember that your body moves in many different ways. A squat isn’t just moving up and down it’s strengthening the entire lower body and core to aid in sitting, standing, or picking things up. If you don’t have enough time… If you don’t know what to do… If the things you’ve tried felt bad… 
 Some people (vanishingly few) are incapable of enjoying exercise but it’s about seeing and feeling the progress that reaffirms the goals.  Circling back to [[Struggle]] I think the more you push in this direction the more you’ll raise the tide that lifts all boats.
@@ -102,7 +91,7 @@ What does your movement journey look like?
 
 **Endurance**
 
-- _Foundation_: walking, light cycling, casual hikes.
+- _Foundation_: walking, casual hikes, pretty much any outdoor activity.
     
 - _Intermediate_: steady-state Zone 2, structured runs/swims.
     
