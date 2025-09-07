@@ -1,7 +1,5 @@
 {
 	"nodes":[
-		{"id":"f4218fbf0ce84553","type":"file","file":"Path/1 Dawn/The Dawn.md","x":-357,"y":-400,"width":482,"height":350},
-		{"id":"5044ab8b30a41c4e","type":"file","file":"Orientation Framework Aetherials.png","x":143,"y":-400,"width":400,"height":350},
 		{"id":"8c157f7fb3514490","type":"file","file":"Path/2 Bedrock/Body.md","x":-75,"y":517,"width":400,"height":400},
 		{"id":"dab329a6ae8e6bf7","type":"file","file":"Path/2 Bedrock/Mind.md","x":-640,"y":461,"width":400,"height":400},
 		{"id":"b0a61c9415d4d16b","type":"file","file":"Path/2 Bedrock/Spirit.md","x":480,"y":461,"width":397,"height":400},
@@ -41,13 +39,14 @@
 		{"id":"62b3faf85c6af647","type":"file","file":"Path/5 Legacies/Prospecting or Discovery of the Future.md","x":-640,"y":4930,"width":400,"height":95},
 		{"id":"a302da3123e8504e","type":"file","file":"Path/5 Legacies/Mythos.md","x":-75,"y":5080,"width":400,"height":50},
 		{"id":"e48526575d93a320","type":"file","file":"Path/4 Enchantments/Scarcity & Abundance.md","x":480,"y":3700,"width":400,"height":105},
-		{"id":"e8c7cd28c8b46e24","type":"file","file":"Path/4 Enchantments/Fighting the War on Ignorance.md","x":-74,"y":3725,"width":400,"height":80}
+		{"id":"e8c7cd28c8b46e24","type":"file","file":"Path/4 Enchantments/Fighting the War on Ignorance.md","x":-74,"y":3725,"width":400,"height":80},
+		{"id":"f4218fbf0ce84553","type":"file","file":"Path/1 Dawn/The Dawn.md","x":-114,"y":-410,"width":482,"height":350},
+		{"id":"45ca6b4e4118e857","type":"file","file":"Shadow Orientation.png","x":400,"y":-410,"width":387,"height":350},
+		{"id":"178ad37f71f5c597","type":"file","file":"Orientation Framework Resonances.png","x":-540,"y":-410,"width":400,"height":359}
 	],
 	"edges":[
 		{"id":"6a86b62ede9c5384","fromNode":"b77b6179464d30f0","fromSide":"bottom","toNode":"f4218fbf0ce84553","toSide":"top"},
-		{"id":"53979f8d80260342","fromNode":"b77b6179464d30f0","fromSide":"bottom","toNode":"5044ab8b30a41c4e","toSide":"top"},
 		{"id":"92d3bab67868ff5c","fromNode":"f4218fbf0ce84553","fromSide":"bottom","toNode":"daaedfbcb8dc9cd9","toSide":"top"},
-		{"id":"0d9d9ead18c97314","fromNode":"5044ab8b30a41c4e","fromSide":"bottom","toNode":"daaedfbcb8dc9cd9","toSide":"top"},
 		{"id":"3177fef10b705853","fromNode":"daaedfbcb8dc9cd9","fromSide":"bottom","toNode":"dab329a6ae8e6bf7","toSide":"top"},
 		{"id":"489accf396112b83","fromNode":"daaedfbcb8dc9cd9","fromSide":"bottom","toNode":"8c157f7fb3514490","toSide":"top"},
 		{"id":"1faf2e681b9c8190","fromNode":"daaedfbcb8dc9cd9","fromSide":"bottom","toNode":"b0a61c9415d4d16b","toSide":"top"},
@@ -84,6 +83,8 @@
 		{"id":"0eacdbf52ec9d23c","fromNode":"8c157f7fb3514490","fromSide":"left","toNode":"76bc38159eb0bb1e","toSide":"left"},
 		{"id":"720c0689e2dc3a22","fromNode":"facabc1547bd9185","fromSide":"right","toNode":"3791c6b67a538eb4","toSide":"right"},
 		{"id":"102183b0d8b911ad","fromNode":"4cd14bdc05ae6d90","fromSide":"left","toNode":"e8c7cd28c8b46e24","toSide":"left"},
-		{"id":"5ff8a60f65067395","fromNode":"4d1e03f82a1e0198","fromSide":"bottom","toNode":"e48526575d93a320","toSide":"bottom"}
+		{"id":"5ff8a60f65067395","fromNode":"4d1e03f82a1e0198","fromSide":"bottom","toNode":"e48526575d93a320","toSide":"bottom"},
+		{"id":"be844727bc48a570","fromNode":"45ca6b4e4118e857","fromSide":"top","toNode":"b77b6179464d30f0","toSide":"bottom"},
+		{"id":"47ef18b57b23f84a","fromNode":"178ad37f71f5c597","fromSide":"top","toNode":"b77b6179464d30f0","toSide":"bottom"}
 	]
 }

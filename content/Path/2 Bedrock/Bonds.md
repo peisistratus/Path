@@ -1,14 +1,24 @@
+**Bringing Lives Together**
+
+- **Mirror neurons** make ritual contagious: one person kneels and soon the group kneels together.
+- **Embodied cognition** strengthens bonds through singing, fasting, feasting, and grieving together which cements memory and connection in the body.
+- **Belonging** turns individual grooves into collective memory: festivals, holidays, mourning rites weave lives together.
+
+Bonds are not only about affection but about the multiplication of grooves across people so that no rhythm fades when one person forgets.
+
+---
+
 Modern society has us as individuals so it is increasingly easy to forget that we are really communal tribal animals.  We survived, squabbled, and reproduced for generations in small groups, small tribes, small communities.  
 
-While we must honor both whether we like it or not people need people.  It is a core human need, and the desire to connect is a fundamental drive.  It is crucial to our development with potential for profound benefits on quality of life as we grow.
+We are stuck with this modern individualism and heritage of tribes and whether we like it or not people need people.  It is a core human need and the desire to connect is a fundamental drive.  It is crucial to our development with potential for profound benefits on quality of life as we grow.
 
-It is a mutual, interactive process along the lines of going from acquaintance to friend. It is the process of nurturing social connections through affection and trust. Shared understanding and respect for a brotherhood, one that transcends interpersonal politics or disagreements between individuals.
+It is a mutual, interactive process along the lines of going from acquaintance to friend. It is the process of nurturing social connections through affection and trust. Shared understanding and respect for people, one that transcends interpersonal politics or disagreements between individuals.
 
-  
+As a baby you were primed for and required damn near 24/7 connection.  This 24/7 connection obviously requires something to connect to, a second party. Ideally a parent with some nervous system regulation, basic competence to keep baby alive and some sound judgement, willingness to take action, and tend mutual trust.  But sole care, a second single human, while possible is largely untenable. So ideally at least two allowing diversity of connection and also so that each can have time and space to fully exist as their own self outside the connection, the relationship, the bond.  Even more ideal is the multigenerational support, the close community support, the elders, the friends, the neighbors.  All at a baseline of familial competence and roughly aligned for the good of the baby.
 
-As a baby you were primed for and required damn near 24/7 connection.  This 24/7 connection obviously requires something to connect to, a second party. Ideally a parent with some nervous system regulation, basic competence to keep baby alive and well, judgement, willingness to take action and responsibility, and mutual trust.  But sole care, a second single human, while possible is largely untenable. So ideally at least two allowing diversity of connection and also so that each can have time and space to fully exist as their own self outside the connection, the relationship, the bond.  Even more ideal is the multigenerational support, the close community support, the elders, the friends, the neighbors.  All at a baseline of familial competence and roughly aligned for the good of the baby.
+This has almost certainly been the base unit for humans for a long time and we have only just begun to play with it.
 
-  
+{expand}
 
 **Bonds That Persist**
 
@@ -40,7 +50,13 @@ Some things can only grow in the light of others
 
 **Make Friends and Influence People**
 
-Trust is made of -Competence - are they capable? -Self-discipline - will they do it? -Honor - do they betray oaths for incentives? -Intellect - can they see the order effects? -Virtue - do they have good intentions? -Honesty - do they hide important information?
+Trust is made of 
+	Competence - are they capable? 
+	Self-discipline - will they do it? 
+	Honor - do they betray oaths for incentives? 
+	Intellect - can they see the order effects? 
+	Virtue - do they have good intentions? 
+	Honesty - do they hide important information?
 
 - reach out to the people in your life
 - send them memes that remind you of them
@@ -71,3 +87,21 @@ Why enslave each other when we can put partial digital copies of ourselves in ea
 Individuals specialize. These bonds, units of social connection at the friend, family, and romantic level radiate out to form community.  The community is a network
 
 Most aspects of social life require an ability to catapult our minds forward in time; social emotions such as guilt and shame function by anticipating our own future feelings; making a promise to someone builds in a timeline of obligation and responsibility; and the simple act of gauging someone’s intentions is based on identifying different possible futures.
+
+Absent believing in transcendent Truth and God, people will create or map on to their own secular religions complete with liturgy, sacraments, saints, and precepts.
+- Liturgy - official set of rules for performing a religious ceremony
+- Sacraments - a visible sign of an inward grace, especially one of the solemn Christian rites considered to have been instituted by Jesus Christ (baptism)
+- Precept - a commandment as to moral conduct (like a maxim)
+Can’t help but see intermittent fasting, meditation, gratitude journaling, etc., as a return to religious fundamentals.
+
+Benefits of Rituals
+
+- Reaffirm your connection to spirit/elements/deity
+- To raise energy to channel towards a particular goal
+- To celebrate the milestones of the year and to honor the deities that rule over those times.
+- Dedicate yourself to a path or deity.
+- And many others that could be seen as facets of the list I've created above.
+
+Put another way: _”A ritual is the enactment of a myth. And, by participating in the ritual, you are participating in the myth. And since myth is a projection of the depth wisdom of the psyche, by participating in a ritual, participating in the myth, you are being, as it were, put in accord with that wisdom, which is the wisdom that is inherent within you anyhow. Your consciousness is being re-minded of the wisdom of your own life. I think ritual is terribly important.”_ - Joseph Campbell
+
+Looking Forward: We’ve already got ”people of the book”. I wonder what “people of the database” or “people of the machine learning model” would look like.  Dive into this further in Woldbuilding Lite and Worldbuilding.

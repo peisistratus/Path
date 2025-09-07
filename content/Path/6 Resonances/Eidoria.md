@@ -1,3 +1,3 @@
 - **Eidoria** (_Eidos [Idea] + Oria [Vision]_) → _The shaping of vision into reality._
 - **Eidoria (Art, Meaning, Form)** → _The shaping of vision into reality._
-- [[Shadows]] - [[Hollowing]]
+- [[Shadow Orientation]] - [[Hollowing]]

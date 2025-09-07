@@ -1,4 +1,4 @@
-![[Orientation Framework 1.png]]
+![[Orientation Framework Resonances.png]]
 
 Begin at the threshold. Strengthen the self, engage with the world, shape it, then shape time for the generations to come. And when the ascent is complete, return—see the path anew, and let its echo shape the footsteps of those who walk it next.
 
