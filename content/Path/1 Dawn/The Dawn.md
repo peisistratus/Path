@@ -47,7 +47,9 @@ To do so, we must:
 - Lend our voice to the great conversation of humanity through perceiving, questioning, and shaping the world as it rises around us.
 - Weigh the needs of the present against the unseen hands of the past and the waiting grasp of the future, ensuring that what we build endures.
 
-We are all human.  We breathe, we eat, we sleep, we hope.  We long for good things to happen, for success, for comfort, for satisfaction.  And we are the ones who breathe fire into the world. 
+We are all human.  We breathe, we eat, we sleep, we hope.  We long for good things to happen, for success, for comfort, for satisfaction.  
+
+We are the ones who breathe fire into the world. 
 
 At our hearth must be the relentless pursuit of ideals and parallel effort so that we can explore and progress sustainably, understand the depths of the mind, and produce harmony.
 

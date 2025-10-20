@@ -37,7 +37,7 @@ I am an economically-secure straight white college-educated male in his 30s from
 I have done my best to overcome the tendency to draw conclusions based on partial information or to leave assumptions unexplored but this book will never be thorough enough, whole enough, or complete.  It will ignorantly glance over areas that would make all the difference to a whole set of peoples and will expand on some paths already too obviously well trodden by others before me.  
 
 - This can be a good thing if you can spot your own gaps in knowledge to fill with your own research
-- This can be a bad thing if it means you have a narrow scope and use it as an excuse to attack, hacking away good growth for shallow and short-sighted reasons
+- This can be a bad thing if you have a narrow scope and use it as an excuse to attack, hacking away good growth for shallow and short-sighted reasons
 
 It is my sincere effort to present this progress of life not as something that you just ‘ought to know’ but as something that is beautiful to understand and enthralling to act upon.  If the practice of ‘the thing’ is strained for you nothing will be achieved.  I want to show you how to fall in love with where you could go, what your life could look like, and make the process so enjoyable that any strained parts are worth overcoming. 
 
@@ -69,7 +69,7 @@ Chaos is messy, unpredictable, riots, hazards, fire, and inability, but also sur
 
 Order is structure, stability, bureaucracy, ice, and efficiency, but also fragility, oppression, boredom.  
 
-Ideally, you are balanced on a pin between the two inevitably wobbling with one foot in order for security and the other in chaos to be alert.  The more time spent in this state of balance means a better Path.
+Ideally, you are balanced on a pin between the two inevitably wobbling with one foot in order for security and the other in chaos to be alert.  Every color and flavor of human experience exists on this spectrum, in this space. The more time spent in this state of balance means a better Path.
 
 This balance is Aristotle’s Golden Mean, Confucian zhongyong, Heraclitus’ Unity of opposites, and Buddhist samatā.  Ideas, long surviving, that are pin pricks of old truths. This balance can apply to any and every part of your life if we can only discover the how and why.
 
@@ -97,7 +97,7 @@ Where it is firm may surprise you and may not even be what you think you want. T
 
 Unfortunately for us, reality is too rich. The brain is bombarded by millions of sensory impulses, but consciousness can process only seven or eight concurrently. These impulses need to be condensed, ordered, and interpreted often under the immense time pressure of daily life which causes errors, misses, shortcuts, and makes distortions unavoidable. Too much information or too little processing tips us towards chaos.  Too little information or too much processing tips us towards order.
 
-A seminal example of this bombardment is “sustained inattentional blindness” also known as the ‘invisible gorilla problem’ where when an individual fails to perceive an unexpected stimulus in plain sight, purely as a result of a lack of attention rather than any vision defects or deficits.  This experiment had subjects watch a short video of two groups of people (wearing black and white T-shirts) passing a basketball around. The subjects are told either to count the passes made by one of the teams. While the teams are passing the ball around another person wearing a full gorilla suit walks through them.  In most groups, as many as 50% of people missed the gorilla suit. Think of all the equivalents in your life, going about your hectic or lazy day and metaphorically missing the person in the gorilla suit because focused on counting the "passes".
+A seminal example of this bombardment is “sustained inattentional blindness” also known as the ‘invisible gorilla problem’ where when an individual fails to perceive an unexpected stimulus in plain sight, purely as a result of a lack of attention rather than any vision defects or deficits.  This experiment had subjects watch a short video of two groups of people (wearing black and white T-shirts) passing a basketball around. The subjects are told to count the passes made by one of the teams. While the teams are passing the ball around another person wearing a full gorilla suit walks through them.  In most groups, as many as 50% of people missed the gorilla suit. Think of all the equivalents in your life, going about your hectic or lazy day and metaphorically missing the person in the gorilla suit because you're focused on counting the "passes".
 
 >Put another way: _We see things not as they are, but as we are ourselves. Every man has his own special dream that he thinks is the reality. - Immanuel Kant_ #quotes 
 
@@ -107,14 +107,14 @@ Imagine you are in a dark cave with your friends and you've been there your whol
 
 One day, you manage to leave the cave and step outside. You see the real world with bright colors, trees, animals, and the sun. You realize that the shadows in the cave were just a tiny, dull version of the amazing real world outside. 
 
-The cave where you had spent your whole life was like living in a world of make-believe, while outside the cave is the world of true reality. Plato's story is telling us that most people are like those in the cave, only seeing shadows which are their limited, mistaken ideas based on taking their senses as truth instead of the real, true things which are abstract and not necessarily perceivable through the senses.
+The cave where you had spent your whole life was like living in a world of make-believe, while outside the cave is the world of 'true reality'. Plato's story is telling us that most people are like those in the cave, only seeing shadows which are their limited, mistaken ideas based on taking their senses as truth instead of the real, true things which are abstract and not necessarily perceivable through the senses.
   ![[Allegory of the Cave.png]]
 
 While inattention blindness is a literal and physical example of this ‘reality is too rich’ problem, Plato’s allegory of the cave also suggests that our senses give us a distorted understanding of reality. This awareness of ignorance is the first step up and the first step better towards realizing the limits of our attention, how and where reality may be constructed for us, and to question what is missing. 
 
 We are all drawn to particular ways of thinking and working without being aware of it, which today we call heuristics. 
 
-Heuristic is a fancy word for the shortcuts our brains take so that they don’t have to work hard.  Heuristics trade speed for certainty, like looking for an item in the last place you remember seeing it instead of searching room by room. These rule-of-thumb strategies allow us to solve problems and make judgments quickly and efficiently without having to engage in prolonged thought, but they come at the cost of cognitive biases.
+Heuristic is a fancy word for the shortcuts our brains take so that they don’t have to work hard, conserving energy for future survival.  Heuristics trade speed for certainty, like looking for an item in the last place you remember seeing it instead of searching room by room top to bottom. These rule-of-thumb strategies allow us to solve problems and make judgments quickly and efficiently without having to engage in prolonged thought, but they come at the cost of cognitive biases.
 
 Cognitive biases are errors in judgement based on tendencies of the brain. Some biases are useless and irrational but they can also prop up helpful behavior.  An example is confirmation bias.  The tendency to favor information in a way that confirms or supports our existing beliefs or values. This is bad when new information is thrown away because it conflicts with what we think we know as true.
 
