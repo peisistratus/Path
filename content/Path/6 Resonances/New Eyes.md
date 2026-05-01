@@ -1,2 +1,0 @@
-
-You have walked the path. Now, you see it anew. And just beyond, someone stands at its threshold, uncertain where it leads. What will you tell them?

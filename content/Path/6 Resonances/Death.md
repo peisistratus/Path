@@ -1,1 +1,0 @@
-Not an endpoint, but a passage. It is the dissolution of what was, making way for what will be.

@@ -1,0 +1,23 @@
+“The purpose of life is to discover your gift; the work of life is to develop it; and the meaning of life is to give your gift away” said David Viscott. #quotes 
+
+“Plans can break down. You cannot plan the future. Only presumptuous fools plan. The wise man steers.” — Terry Pratchett
+
+I think there are two ways to approach purpose in life - an off the shelf pre made game or a choose your own adventure.
+
+Off the shelf minimizes downside, they don’t necessarily impart meaning, and upside is generally capped.  If you care about impact off the shelf can be a risky bet.  But you legibility of status and measures of success
+
+Choose your own adventure has unlimited potential and by following your nose imparts meaning.  Generally risky but survivor bias will make it attractive and satisfaction upon your own determination of success will be higher. You may toil and never recognize “success” as determined by more legible off the shelf games 
+
+Having a Purpose in Life consistently shows up as something that increases stated well-being.  Of course, the problem with trying to pick out "a Purpose in Life" in order to make yourself happier, is that this doesn't take you outside yourself; it's still all about you.  To find purpose, you need to turn your eyes outward to look at the world and find things there that you care about - rather than obsessing about the wonderful spiritual benefits you're getting from helping others.  In today's world, most of the highest-priority legitimate Causes consist of large groups of people in extreme jeopardy:  Aging threatens the old, starvation threatens the poor, extinction risks threaten humanity as a whole.
+
+Your brain wants to pursue purpose most. If it can't find purpose, it'll try to pursue happiness. If it can't find happiness, it'll try to pursue pleasure. The cool part is if you can find purpose, you get all 3.
+
+Finding your principle - does this resonate? does this repel? what is the secret ingredient of all these experiences that causes me to react so strongly?
+
+If there's something in this world that you feel is a wrong, you have a vision for what a better world could be, you can find your guiding principle and fight for a cause
+
+Purpose is a stable and generalized intention to accomplish something that is at the same time meaningful to the self and consequential for the world beyond the self. 
+
+Much of the anomie and disconnect in modern society can be attributed to our spending all day on tasks (like office work) that we didn't evolve to perform (unlike hunting and gathering on the savanna).  Thus, many of the tasks we perform all day do not engage our senses - even the most realistic modern video game is not the same level of sensual experience as outrunning a real tiger on the real savanna.  Even the best modern video game is low-bandwidth fun - a low-bandwidth connection to a relatively simple challenge, which doesn't fill our brains well as a result.  But future entities could have different senses and higher-bandwidth connections to more complicated challenges, even if those challenges didn't exist on the savanna.
+
+She explains that an accurate picture of your odds can help you choose between goals. She encourages readers to consider the pursuit of a goal while asking, "Is this goal worth pursuing, compared to other things I could do instead?" She also states that an accurate picture of the odds can help you adapt your plan over time. She provides the example of Shellye Archambeau who was determined to become CEO of a major tech company. Archambeau was climbing the ranks around the time of the dot com bubble burst. She recognized the bad timing of trying to fulfill her original dream at a time when Silicon Valley was flooded with highly sought-after executives. She acknowledged this, and changed her goal - she became determined to become CEO of a tech company (dropping the requirement that it be top-tier). When she did this, she ended up being hired as CEO of Zaplet, Inc., which was almost bankrupt at the time. She eventually grew the company into MetricStream, which is now worth over $400 million. Galef says that an accurate picture of the odds can help you decide how much to stake on success. She also explains that accepting inevitable variance gives you equanimity. She states, "As long as you continue making positive expected value bets, that variance will mostly wash out in the long run."

@@ -1,2 +1,0 @@
-![[Terranovas.png]]
-- (_[[Conflict]], [[Culture]], [[Growth]]_) - The power to expand—breaking constraints, scaling ideas, pushing into the unknown. And their shadows (_[[Oppression]], [[Stagnation]], [[Degeneration]]_) When engagement turns destructive, Oppression twists power into control, Stagnation traps systems in rigidity, and Degeneration unravels meaning—without vigilance, the forces that shape the world can just as easily break it.

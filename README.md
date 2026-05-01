@@ -1,18 +1,38 @@
-# Quartz v4
+# Path (Peisistratus)
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This repo publishes **peisistratus.com** from an Obsidian vault.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## Source of truth
+- Author in Obsidian vault: `/Users/mair/clawd/Path`
+- Sync vault → repo content: `./scripts/sync_obsidian_vault.py`
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Local workflow
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+```bash
+# sync Obsidian -> repo content/
+./scripts/sync_obsidian_vault.py
 
-## Sponsors
+# run site locally
+cd astro-site
+npm ci
+npm run dev
+```
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Build
+
+```bash
+./scripts/sync_obsidian_vault.py
+cd astro-site
+npm ci
+npm run build
+```
+
+## Deploy
+GitHub Pages builds the Astro site in `astro-site/` and publishes `astro-site/dist`.
+
+## URL compatibility
+Pages are generated at both:
+- `/<slug>/...`
+- `/Path/<slug>/...` (legacy compatibility)
+
+See `ASTRO_MIGRATION.md` for more details.

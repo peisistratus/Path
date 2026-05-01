@@ -1,0 +1,36 @@
+---
+import Layout from '../layouts/Layout.astro'
+
+// Load markdown as Astro components. This avoids requiring frontmatter.
+export async function getStaticPaths() {
+  const modules = import.meta.glob('../content/notes/**/*.md', { eager: true })
+  const toSlug = (path) => path.replace(/^\.\.\/content\/notes\//, '').replace(/\.md$/, '')
+  return Object.keys(modules).map((p) => {
+    const slug = toSlug(p)
+    return {
+      params: { slug },
+      props: { slug },
+    }
+  })
+}
+
+const modules = import.meta.glob('../content/notes/**/*.md', { eager: true })
+const toSlug = (path) => path.replace(/^\.\.\/content\/notes\//, '').replace(/\.md$/, '')
+const slugToMod = new Map(Object.entries(modules).map(([p, mod]) => [toSlug(p), mod]))
+
+const { slug } = Astro.props
+const mod = slugToMod.get(slug)
+if (!mod) throw new Error(`Missing page for slug: ${slug}`)
+
+const Content = mod.default
+const frontmatter = mod.frontmatter ?? {}
+const pageTitle = frontmatter.title ?? slug.split('/').slice(-1)[0]
+const description = frontmatter.description
+---
+
+<Layout title={pageTitle} description={description}>
+  <article class="prose" data-pagefind-body>
+    <h1>{pageTitle}</h1>
+    <Content />
+  </article>
+</Layout>
