@@ -28,7 +28,7 @@ const pageTitle = frontmatter.title ?? slug.split('/').slice(-1)[0]
 const description = frontmatter.description
 ---
 
-<Layout title={pageTitle} description={description}>
+<Layout title={pageTitle} description={description} currentSlug={slug}>
   <article class="prose" data-pagefind-body>
     <h1>{pageTitle}</h1>
     <Content />

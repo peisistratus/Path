@@ -1,6 +1,17 @@
 ---
-const { title, description } = Astro.props
+const { title, description, currentSlug } = Astro.props
 const fullTitle = title ? `${title} · Peisistratus` : 'Peisistratus'
+
+const nav = [
+  { label: 'The Dawn', href: '/1-Dawn/The-Dawn', prefix: '1-Dawn/' },
+  { label: 'Bedrock', href: '/2-Bedrock/Bedrock', prefix: '2-Bedrock/' },
+  { label: 'Callings', href: '/3-Callings/Callings', prefix: '3-Callings/' },
+  { label: 'Enchantments', href: '/4-Enchantments/Enchantments', prefix: '4-Enchantments/' },
+  { label: 'Legacies', href: '/5-Legacies/Legacies', prefix: '5-Legacies/' },
+  { label: 'Coda', href: '/6-Coda/Coda-and-Caliphon', prefix: '6-Coda/' },
+]
+
+const isActive = (prefix) => (currentSlug ? String(currentSlug).startsWith(prefix) : false)
 ---
 
 <!doctype html>
@@ -11,92 +22,50 @@ const fullTitle = title ? `${title} · Peisistratus` : 'Peisistratus'
     <title>{fullTitle}</title>
     {description ? <meta name="description" content={description} /> : null}
     <meta name="color-scheme" content="light dark" />
+    <link rel="stylesheet" href="/styles/theme.css" />
   </head>
   <body>
     <header class="siteHeader">
-      <div class="inner">
-        <a class="brand" href="/">Peisistratus</a>
+      <div class="container bar">
+        <a class="brand" href="/">
+          Peisistratus
+          <small>Path</small>
+        </a>
         <nav class="nav">
-          <a href="/1-Dawn/The-Dawn">Start</a>
-          <a href="/">Contents</a>
+          <a href="/">Home</a>
           <a href="/search">Search</a>
           <a href="https://x.com/peisistratus" rel="me">X</a>
         </nav>
       </div>
     </header>
 
-    <main class="main">
-      <slot />
+    <main class="container shell">
+      <aside class="panel sidebar">
+        <div class="sideTitle">Acts</div>
+        <nav class="sideNav">
+          {nav.map((item) => (
+            <a href={item.href} data-active={isActive(item.prefix) ? 'true' : 'false'}>
+              <span>{item.label}</span>
+              <span class="meta">→</span>
+            </a>
+          ))}
+        </nav>
+      </aside>
+
+      <section class="panel main">
+        <slot />
+      </section>
     </main>
 
     <footer class="footer">
-      <div class="inner">
-        <a href="https://x.com/peisistratus">X</a>
+      <div class="container">
+        <div>© {new Date().getFullYear()} Peisistratus</div>
+        <div style="display:flex; gap:12px;">
+          <a href="/">Home</a>
+          <a href="/search">Search</a>
+          <a href="https://x.com/peisistratus">X</a>
+        </div>
       </div>
     </footer>
-
-    <style>
-      :root {
-        --bg: #0b0b0e;
-        --text: #e9e9ee;
-        --muted: #b8b8c4;
-        --card: #12121a;
-        --stroke: rgba(255,255,255,0.10);
-        --link: #cdd6ff;
-        --max: 980px;
-      }
-      @media (prefers-color-scheme: light) {
-        :root {
-          --bg: #ffffff;
-          --text: #101018;
-          --muted: #4b4b5a;
-          --card: #f7f7fb;
-          --stroke: rgba(0,0,0,0.08);
-          --link: #1b3cff;
-        }
-      }
-      html, body { height: 100%; }
-      body {
-        margin: 0;
-        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
-        background: var(--bg);
-        color: var(--text);
-        line-height: 1.5;
-      }
-      a { color: var(--link); text-decoration: none; }
-      a:hover { text-decoration: underline; }
-
-      .inner { max-width: var(--max); margin: 0 auto; padding: 14px 18px; }
-
-      .siteHeader {
-        position: sticky;
-        top: 0;
-        backdrop-filter: blur(10px);
-        background: color-mix(in oklab, var(--bg) 80%, transparent);
-        border-bottom: 1px solid var(--stroke);
-        z-index: 20;
-      }
-      .siteHeader .inner { display:flex; align-items:center; justify-content:space-between; gap: 16px; }
-      .brand { font-weight: 800; letter-spacing: 0.2px; }
-      .nav { display:flex; gap: 14px; color: var(--muted); font-weight: 600; }
-      .nav a { color: var(--muted); }
-      .nav a:hover { color: var(--text); }
-
-      .main { max-width: var(--max); margin: 0 auto; padding: 26px 18px 56px; }
-
-      .prose {
-        max-width: 760px;
-        font-size: 16px;
-      }
-      .prose h1 { font-size: 34px; line-height: 1.15; margin: 0 0 10px; }
-      .prose h2 { margin-top: 28px; }
-      .prose p { color: color-mix(in oklab, var(--text) 92%, var(--muted)); }
-      .prose li { margin: 6px 0; }
-      .prose code { background: color-mix(in oklab, var(--card) 80%, transparent); padding: 2px 6px; border-radius: 8px; }
-      .prose a { text-decoration: underline; text-decoration-color: color-mix(in oklab, var(--link) 55%, transparent); }
-
-      .footer { border-top: 1px solid var(--stroke); }
-      .footer .inner { color: var(--muted); font-weight: 600; }
-    </style>
   </body>
 </html>
