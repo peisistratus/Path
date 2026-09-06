@@ -249,6 +249,45 @@ body[data-slug="index"] article > ul ul {
   border-left: 1px solid var(--path-rule);
 }
 
+body[data-slug="index"] article > ul > li.path-toc-collapsed > ul {
+  display: none;
+}
+
+body[data-slug="index"] .path-toc-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0.55rem 0 0;
+  padding: 0.28rem 0.72rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 28%, transparent);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--secondary) 7%, transparent);
+  color: var(--secondary);
+  font-family: var(--headerFont);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+body[data-slug="index"] .path-toc-toggle::after {
+  content: "↓";
+  font-size: 0.8rem;
+  line-height: 1;
+}
+
+body[data-slug="index"] .path-toc-toggle[aria-expanded="true"]::after {
+  content: "↑";
+}
+
+body[data-slug="index"] .path-toc-toggle:hover,
+body[data-slug="index"] .path-toc-toggle:focus-visible {
+  border-color: var(--secondary);
+  background: color-mix(in srgb, var(--secondary) 12%, transparent);
+  outline: none;
+}
+
 body[data-slug="index"] article > ul ul li::marker {
   color: var(--secondary);
 }

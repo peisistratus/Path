@@ -77,6 +77,40 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     componentResources.css.push(popoverStyle)
   }
 
+  componentResources.afterDOMLoaded.push(`
+    function setupPathIndexToc() {
+      const article = document.querySelector('body[data-slug="index"] article')
+      if (!article) return
+
+      const items = article.querySelectorAll(':scope > ul > li')
+      items.forEach((item, index) => {
+        const nestedList = item.querySelector(':scope > ul')
+        if (!nestedList || item.classList.contains('path-toc-ready')) return
+
+        item.classList.add('path-toc-ready', 'path-toc-collapsed')
+        nestedList.id = nestedList.id || 'path-toc-section-' + index
+
+        const toggle = document.createElement('button')
+        toggle.type = 'button'
+        toggle.className = 'path-toc-toggle'
+        toggle.setAttribute('aria-expanded', 'false')
+        toggle.setAttribute('aria-controls', nestedList.id)
+        toggle.textContent = 'Show section'
+
+        toggle.addEventListener('click', () => {
+          const collapsed = item.classList.toggle('path-toc-collapsed')
+          toggle.setAttribute('aria-expanded', collapsed ? 'false' : 'true')
+          toggle.textContent = collapsed ? 'Show section' : 'Hide section'
+        })
+
+        item.insertBefore(toggle, nestedList)
+      })
+    }
+
+    document.addEventListener('nav', setupPathIndexToc)
+    setupPathIndexToc()
+  `)
+
   if (cfg.analytics?.provider === "google") {
     const tagId = cfg.analytics.tagId
     componentResources.afterDOMLoaded.push(`
