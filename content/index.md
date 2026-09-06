@@ -1,3 +1,7 @@
+---
+title: Path
+---
+
 I am going to tell you a story.  A story about a path and a way to walk.  Some will read the story and race down the path eager for what lies ahead.  Some might add the path to their map or adopt a few steps in their walk.  And some turn around, certain their direction lies elsewhere.
 
 **Table of Contents**
