@@ -95,12 +95,12 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
         toggle.className = 'path-toc-toggle'
         toggle.setAttribute('aria-expanded', 'false')
         toggle.setAttribute('aria-controls', nestedList.id)
-        toggle.textContent = 'Show section'
+        toggle.setAttribute('aria-label', 'Expand section')
 
         toggle.addEventListener('click', () => {
           const collapsed = item.classList.toggle('path-toc-collapsed')
           toggle.setAttribute('aria-expanded', collapsed ? 'false' : 'true')
-          toggle.textContent = collapsed ? 'Show section' : 'Hide section'
+          toggle.setAttribute('aria-label', collapsed ? 'Expand section' : 'Collapse section')
         })
 
         item.insertBefore(toggle, nestedList)

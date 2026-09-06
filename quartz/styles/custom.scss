@@ -249,42 +249,51 @@ body[data-slug="index"] article > ul ul {
   border-left: 1px solid var(--path-rule);
 }
 
+body[data-slug="index"] article > ul > li.path-toc-ready::before {
+  display: none;
+}
+
 body[data-slug="index"] article > ul > li.path-toc-collapsed > ul {
   display: none;
 }
 
 body[data-slug="index"] .path-toc-toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  margin: 0.55rem 0 0;
-  padding: 0.28rem 0.72rem;
-  border: 1px solid color-mix(in srgb, var(--secondary) 28%, transparent);
-  border-radius: 999px;
-  background: color-mix(in srgb, var(--secondary) 7%, transparent);
-  color: var(--secondary);
-  font-family: var(--headerFont);
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  position: absolute;
+  left: -0.64rem;
+  top: 1.08rem;
+  display: grid;
+  place-items: center;
+  width: 1.16rem;
+  height: 1.16rem;
+  padding: 0;
+  border: 1px solid color-mix(in srgb, var(--secondary) 30%, var(--path-panel));
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--secondary) 92%, var(--path-panel));
+  color: var(--light);
+  box-shadow: 0 0 0 6px var(--path-glow);
   cursor: pointer;
 }
 
-body[data-slug="index"] .path-toc-toggle::after {
-  content: "↓";
-  font-size: 0.8rem;
+body[data-slug="index"] .path-toc-toggle::before {
+  content: "›";
+  font-family: var(--headerFont);
+  font-size: 0.95rem;
+  font-weight: 700;
   line-height: 1;
+  transform: translateX(0.04rem);
 }
 
-body[data-slug="index"] .path-toc-toggle[aria-expanded="true"]::after {
-  content: "↑";
+body[data-slug="index"] .path-toc-toggle[aria-expanded="true"]::before {
+  content: "⌄";
+  font-size: 0.9rem;
+  transform: translateY(-0.08rem);
 }
 
 body[data-slug="index"] .path-toc-toggle:hover,
 body[data-slug="index"] .path-toc-toggle:focus-visible {
   border-color: var(--secondary);
-  background: color-mix(in srgb, var(--secondary) 12%, transparent);
+  background: var(--secondary);
+  box-shadow: 0 0 0 7px color-mix(in srgb, var(--secondary) 15%, transparent);
   outline: none;
 }
 
